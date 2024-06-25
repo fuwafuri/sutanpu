@@ -59,3 +59,10 @@ body{
 #プログラム1{
     color: rgb(91, 133, 250);
 }
+.fuwafuri{
+    font-size: 20px;
+    padding-left: 20px;
+    float: left;
+    color: #333;
+    text-decoration: none;
+}
